@@ -1,3 +1,3 @@
-MONGO_URI=mongodb+srv://mongodburi
-LOG_URL=qliferoleplay/logs
+MONGO_URI=mongodb+srv://userqc:qcpassword09@quebeccityrpmod.wh3fy.mongodb.net/
+LOG_URL=https://qliferoleplay/logs.ca
 PORT=80
